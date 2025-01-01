@@ -1,5 +1,13 @@
 <div align="center">
 
+# 👋 Welcome to My GitHub!
+
+![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
+<h2>Hi, I'm Shwet! A passionate developer and tech enthusiast. I love exploring new technologies and building meaningful projects. 🚀</h2>
+
+---
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
