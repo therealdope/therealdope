@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub!
-
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
-<h2>Hi, I'm Shwet! A passionate developer and tech enthusiast. I love exploring new technologies and building meaningful projects. 🚀</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=15BDF7&center=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Shwet+Kheni!)](https://git.io/typing-svg)
 
 ---
 
