@@ -4,7 +4,7 @@
 
 ---
 
-## [Resume](https://drive.google.com/file/d/1U9yaIB7-Jma99eHGEepUZDljTbdASZRd/view?usp=sharing) \\ [Portfolio](https://example.com)
+## - [Resume](https://drive.google.com/file/d/1U9yaIB7-Jma99eHGEepUZDljTbdASZRd/view?usp=sharing) \\ [Portfolio](https://example.com)
 
 
 ---
