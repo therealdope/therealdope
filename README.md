@@ -65,7 +65,7 @@ https://mega.nz/file/lvFSzI4a#ClyaGxis-MgTff4oUUPPymu7iPtbNV8GeTKJitJmTkE
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shwet_kheni) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shwet-kheni-658a33252) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shwetkheni) 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:22bce337@nirmauni.ac.in)
 
 ---
