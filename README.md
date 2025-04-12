@@ -12,7 +12,7 @@
 
 ## Quick Links  
 [![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](
-https://mega.nz/file/lvFSzI4a#ClyaGxis-MgTff4oUUPPymu7iPtbNV8GeTKJitJmTkE
+https://mega.nz/file/NzsxhagD#S-uh09k6cLil_ScqHR0PRPneQUUIsKRR82kdIK1f-7U
 )
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=web&logoColor=white)](https://skheni.vercel.app)
 
