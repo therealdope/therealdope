@@ -1,11 +1,14 @@
 
 <div align="center">
   
-<p align="center">
-  <img src="./98b051a4102197eff0ddf345b333a576.gif" alt="Banner" width="100%" height="250">
-</p>
+<img src="./98b051a4102197eff0ddf345b333a576.gif" alt="Banner" width="100%" height="250" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=6000&color=15BDF7&center=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Shwet+Kheni!+)](https://git.io/typing-svg)
+  <br />
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=6000&color=15BDF7&center=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Shwet+Kheni!+" alt="Typing SVG" />
+  </a>
 
 ---
 
