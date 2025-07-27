@@ -85,5 +85,5 @@ https://mega.nz/folder/E2kmHbzT#I9sGMx2E9yqXNtIUvo9zgg
 </p>
 
 
-<img src="https://i1.wp.com/media.giphy.com/media/bqxbgri8lBSzvMVI3Y/giphy.gif?w=780&ssl=1" alt="Banner" width="100%" height="350" />
+<img src="./giphy.gif.webp" alt="Banner" width="70%" height="300" />
 </div>
