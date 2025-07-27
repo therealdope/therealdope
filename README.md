@@ -84,4 +84,6 @@ https://mega.nz/folder/E2kmHbzT#I9sGMx2E9yqXNtIUvo9zgg
   <a href="https://visitorbadge.io/status?path=therealdope"><img src="https://api.visitorbadge.io/api/visitors?path=therealdope&label=Visitors&countColor=%23ba68c8" alt="Visitors Badge" /></a>
 </p>
 
+
+<img src="https://i1.wp.com/media.giphy.com/media/bqxbgri8lBSzvMVI3Y/giphy.gif?w=780&ssl=1" alt="Banner" width="100%" height="350" />
 </div>
